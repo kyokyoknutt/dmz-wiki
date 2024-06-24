@@ -7,7 +7,7 @@ nav_order: 4
 
 # Vondel
 
-{% picture jpt-webp /images/Vondel_LoadingScreen_WZ2.webp --img style="width: 30rem;" %}
+<img src="/images/Vondel_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 

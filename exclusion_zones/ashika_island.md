@@ -7,7 +7,7 @@ nav_order: 2
 
 # Ashika Island
 
-{% picture jpt-webp /images/AshikaIsland_LoadingScreen_DMZ_WZ2.webp --img style="width: 30rem;" %}
+<img src="/images/AshikaIsland_LoadingScreen_DMZ_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 

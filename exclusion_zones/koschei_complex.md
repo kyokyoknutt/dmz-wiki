@@ -7,7 +7,7 @@ nav_order: 3
 
 # Koschei Complex
 
-{% picture jpt-webp /images/KoscheiComplex_LoadingScreen_WZ2.webp --img style="width: 30rem;" %}
+<img src="/images/KoscheiComplex_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 

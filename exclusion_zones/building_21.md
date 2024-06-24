@@ -7,7 +7,7 @@ nav_order: 1
 
 # Building 21
 
-{% picture jpt-webp /images/Building21_LoadingScreen_WZ2.webp --img style="width: 30rem;" %}
+<img src="/images/Building21_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 
