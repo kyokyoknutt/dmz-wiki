@@ -3,7 +3,7 @@ title: Wait, what even is DMZ?
 layout: default
 nav_order: 1
 ---
-<img src="/images/DMZ_Logo_WZ2.webp" style="float: right; width: 10em;"/>
+<img src="/dmz-wiki/assets/DMZ_Logo_WZ2.webp" style="float: right; width: 10em;"/>
 
 # Wait, what even *is* DMZ?
 

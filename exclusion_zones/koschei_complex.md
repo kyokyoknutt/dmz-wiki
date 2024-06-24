@@ -7,7 +7,7 @@ nav_order: 3
 
 # Koschei Complex
 
-<img src="/images/KoscheiComplex_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
+<img src="/dmz-wiki/assets/KoscheiComplex_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 

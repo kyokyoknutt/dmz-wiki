@@ -7,7 +7,7 @@ nav_order: 4
 
 # Vondel
 
-<img src="/images/Vondel_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
+<img src="/dmz-wiki/assets/Vondel_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 

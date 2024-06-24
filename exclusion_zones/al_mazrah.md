@@ -7,7 +7,7 @@ nav_order: 0
 
 # Al Mazrah
 
-<img src="/images/AlMazrah_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
+<img src="/dmz-wiki/assets/AlMazrah_LoadingScreen_WZ2.webp " style="width: 30rem;"/>
 
 {: .note }
 

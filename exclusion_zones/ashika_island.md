@@ -7,7 +7,7 @@ nav_order: 2
 
 # Ashika Island
 
-<img src="/images/AshikaIsland_LoadingScreen_DMZ_WZ2.webp " style="width: 30rem;"/>
+<img src="/dmz-wiki/assets/AshikaIsland_LoadingScreen_DMZ_WZ2.webp " style="width: 30rem;"/>
 
 {: .important }
 
